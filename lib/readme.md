@@ -1,0 +1,2 @@
+Since this project uses MSBuild (for debugging) it's a bit harder to build Lantern and I don't exactly want to spend 5 hours trying to try to make GitHub Actions build it.   
+Just drop Lantern.lib into this folder

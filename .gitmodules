@@ -1,0 +1,3 @@
+[submodule "lib/Lantern"]
+	path = lib/Lantern
+	url = https://github.com/LanternLCE/Lantern.git
