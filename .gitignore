@@ -400,3 +400,4 @@ FodyWeavers.xsd
 *.sln.iml
 /.idea
 lib/Lantern.lib
+/out/build/x64-Debug
